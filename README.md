@@ -1,2 +1,2 @@
 # U7T_MGME
-Documentação referente à implementação do projeto final do curso Embarcatech;
+Arquivos principais do projeto final para a residência em sistemas embarcados Embarcatech.
